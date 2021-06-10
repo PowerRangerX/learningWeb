@@ -1,2 +1,1 @@
-permalink: /main.html
 # learningWeb
