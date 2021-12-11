@@ -1,3 +1,3 @@
-lists = document.getElementsByName("li");
+lists = document.getElementsByTagName("li");
 
 console.log(lists);
