@@ -1,2 +1,3 @@
+lists = document.getElementsByName("li");
 
-alert("test");
+console.log(lists);
